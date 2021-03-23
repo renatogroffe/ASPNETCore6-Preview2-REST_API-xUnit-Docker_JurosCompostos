@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIFinancas.Testes", "APIFinancas.Testes.csproj", "{C95A6B86-89D9-4A24-92B3-1C31BEF14355}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIFinancas", "..\APIFinancas\APIFinancas.csproj", "{3B66F972-2967-4EB1-B7D7-FC3F3F851323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95A6B86-89D9-4A24-92B3-1C31BEF14355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95A6B86-89D9-4A24-92B3-1C31BEF14355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95A6B86-89D9-4A24-92B3-1C31BEF14355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95A6B86-89D9-4A24-92B3-1C31BEF14355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B66F972-2967-4EB1-B7D7-FC3F3F851323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B66F972-2967-4EB1-B7D7-FC3F3F851323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B66F972-2967-4EB1-B7D7-FC3F3F851323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B66F972-2967-4EB1-B7D7-FC3F3F851323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE2A37D7-25FB-4926-99C2-6A101A75EC36}
+	EndGlobalSection
+EndGlobal
