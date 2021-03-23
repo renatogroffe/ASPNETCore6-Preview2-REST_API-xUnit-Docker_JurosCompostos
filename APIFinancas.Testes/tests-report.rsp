@@ -1,0 +1,2 @@
+--verbosity: minimal
+--logger: "html;LogFileName=resultado-testes-linhacomando.html"
